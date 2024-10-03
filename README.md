@@ -1,0 +1,1 @@
+The whole project had been made using modular approach, index.php as the core and utilizing "include" php command resulting that the different contents appear based on the user's actions. Of course there is room for improvement, for example it could reimplemented using object oriented approach, furthermore using SQL stored procedures to ensure safer program execution.
